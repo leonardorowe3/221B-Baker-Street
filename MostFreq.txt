@@ -1,0 +1,12 @@
+freq*	word
+-----	-----
+109	the
+52	a
+50	of
+45	to
+41	in
+29	and
+20	on
+19	has
+19	for
+18	its
